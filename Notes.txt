@@ -4,3 +4,8 @@
 
 
 Compilate the script & enjoy!
+
+Steps:
+pip install pyinstaller
+
+pyinstaller --onefile --noconsole discord.py
